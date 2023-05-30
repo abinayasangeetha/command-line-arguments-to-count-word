@@ -14,8 +14,9 @@ Anaconda - Python 3.7
 
 
 ## PROGRAM:
-# Developed By: ABINAYA S
-# Register No: 212222230002
+#Developed By: ABINAYA S
+
+#Register No: 212222230002
 ```
 import sys
 count = {}
