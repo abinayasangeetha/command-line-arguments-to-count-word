@@ -40,8 +40,9 @@ f.close()
 ![File content](https://github.com/abinayasangeetha/command-line-arguments-to-count-word/assets/119393675/5e1cfc79-79da-4bb8-ba7d-4b45b46ccc73)
 
 ### OUTPUT:
+![commandline](https://github.com/abinayasangeetha/command-line-arguments-to-count-word/assets/119393675/ad450f46-92e2-49d8-ab33-ea4aaeeae32d)
 
-![ouput commandline](https://github.com/abinayasangeetha/command-line-arguments-to-count-word/assets/119393675/216eb92c-d51f-4c08-9b62-8d7026e98b88)
+
 
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
