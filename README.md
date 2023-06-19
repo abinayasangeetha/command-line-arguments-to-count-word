@@ -35,11 +35,11 @@ with open(sys.argv[1], 'r') as f:
 print(count)
 f.close()
 ```
-
+### OUTPUT:
 #### File content:
 ![File content](https://github.com/abinayasangeetha/command-line-arguments-to-count-word/assets/119393675/5e1cfc79-79da-4bb8-ba7d-4b45b46ccc73)
 
-### OUTPUT:
+
 ![commandline](https://github.com/abinayasangeetha/command-line-arguments-to-count-word/assets/119393675/ad450f46-92e2-49d8-ab33-ea4aaeeae32d)
 
 
